@@ -1,4 +1,4 @@
-# Python
+# Python / Computational Reasoning
 
 PT: Este repositório foi criado para guardar e mostrar os exercícios resolvidos durante o primeiro trimestre do curso de Tecnologia em Analise e Desenvolvimento de sistemas. A linguagem utilizada para resolução dos mesmo foi Python e com o passar do curso, outras linguagens virão.
 
